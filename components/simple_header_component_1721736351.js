@@ -30,6 +30,12 @@ Vue.component("simple_header_component_1721736351", {
                     </ul>
                 </div>
             </div>
+            <div class="flex-1">
+                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    Hello World
+                </button>
+            </div>
+        </nav>
         </nav>
     </header>`,
     data() {
